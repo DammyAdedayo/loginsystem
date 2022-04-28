@@ -6,7 +6,7 @@
 
 username_list = ["Buddy" "Alex" "Jordan" "Kizzy"]
 phone_list = [316,555,712,888,913,681]
-email_list = ["larpkizzy@gmail.com" "awesome@gmail.com" "orange@gmail.com"]
+email_list = ["lol@gmail.com" "awesome@gmail.com" "orange@gmail.com"]
 # Lists End
 
 
